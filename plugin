@@ -9,9 +9,9 @@
         "author": "Dquy15",
         "path": "https://raw.githubusercontent.com/dquy15/vbook-ext/master/sayhentai/plugin.zip",
         "version": 4,
-        "source": "https://sayhentai.us",
+        "source": "https://sayhentai.me",
         "icon": "https://raw.githubusercontent.com/dquy15/vbook-ext/master/sayhentai/icon.png",
-        "description": "Đọc truyện trên trang Sayhentai.us",
+        "description": "Đọc truyện trên trang Sayhentai.me",
         "type": "comic",
         "locale": "vi_VN",
         "tag": "nsfw"
